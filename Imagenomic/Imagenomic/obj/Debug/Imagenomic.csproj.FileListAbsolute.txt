@@ -16,3 +16,12 @@ E:\imagenomic\Imagenomic\Imagenomic\obj\Debug\Imagenomic.csprojResolveAssemblyRe
 E:\imagenomic\Imagenomic\Imagenomic\obj\Debug\Imagenomic.Form1.resources
 E:\imagenomic\Imagenomic\Imagenomic\obj\Debug\Imagenomic.Properties.Resources.resources
 E:\imagenomic\Imagenomic\Imagenomic\obj\Debug\Imagenomic.csproj.GenerateResource.Cache
+C:\Users\GevorgDaniel\Desktop\imagenomic\Imagenomic\Imagenomic\bin\Debug\Imagenomic.exe.config
+C:\Users\GevorgDaniel\Desktop\imagenomic\Imagenomic\Imagenomic\obj\Debug\Imagenomic.exe
+C:\Users\GevorgDaniel\Desktop\imagenomic\Imagenomic\Imagenomic\obj\Debug\Imagenomic.pdb
+C:\Users\GevorgDaniel\Desktop\imagenomic\Imagenomic\Imagenomic\bin\Debug\Imagenomic.exe
+C:\Users\GevorgDaniel\Desktop\imagenomic\Imagenomic\Imagenomic\bin\Debug\Imagenomic.pdb
+C:\Users\GevorgDaniel\Desktop\imagenomic\Imagenomic\Imagenomic\obj\Debug\Imagenomic.csprojResolveAssemblyReference.cache
+C:\Users\GevorgDaniel\Desktop\imagenomic\Imagenomic\Imagenomic\obj\Debug\Imagenomic.Form1.resources
+C:\Users\GevorgDaniel\Desktop\imagenomic\Imagenomic\Imagenomic\obj\Debug\Imagenomic.Properties.Resources.resources
+C:\Users\GevorgDaniel\Desktop\imagenomic\Imagenomic\Imagenomic\obj\Debug\Imagenomic.csproj.GenerateResource.Cache
